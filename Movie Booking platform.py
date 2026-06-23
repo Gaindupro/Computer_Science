@@ -9,7 +9,7 @@ movies = {
     8: {"title": "Suura Detuwo", "price": 1000, "seats": 60}
     
 }
-
+#comment
 receipt_items = []
 total_amount_to_pay = 0.0
 
